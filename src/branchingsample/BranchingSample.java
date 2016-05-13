@@ -15,7 +15,7 @@ public class BranchingSample {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Branch1");
+        System.out.println("Branch1_CheckOut");
         System.out.println("BranchInCheckOut");
     }
     
